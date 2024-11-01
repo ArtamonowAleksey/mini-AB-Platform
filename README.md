@@ -1,1 +1,1 @@
-# miniABPlatform
+# mini-AB-Platform
